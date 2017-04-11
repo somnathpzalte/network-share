@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aquil-Somnath\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.1\f5aa318bda4c6c8d688c9d00b90681dcd82ce636\httpcore-4.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="D:\Android\Workspace\android-network-discovery-master1\app\build\intermediates\pre-dexed\debug\httpcore-4.4.1_31adf6679680b9ba41fe9d3fcaa2ff0f6eb36679.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Workspace\android-network-discovery-master1\app\libs\httpclient-4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15e5dcd413042ee5af9c350604d57e8c156e103f">
+        <dex dex="D:\Android\Workspace\android-network-discovery-master1\app\build\intermediates\pre-dexed\debug\httpclient-4.2_0d1ec6472710ec908263c1318a7d0c64cb986dc9.jar" />
+    </item>
+
+</items>

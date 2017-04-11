@@ -1,0 +1,143 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:6:1-86:12
+	package
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:8:5-42
+		INJECTED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:10:5-32
+		INJECTED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:9:5-29
+		INJECTED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:7:5-63
+	android:installLocation
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:11:5-45
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:16:22-63
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:17:5-73
+	android:name
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:17:22-70
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:18:22-73
+application
+ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:19:5-81:19
+	android:label
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:20:9-38
+activity#info.lamatricexiste.network.ActivityMain
+ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:23:9-28:20
+	android:label
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:25:13-45
+	android:configChanges
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:24:13-41
+activity#info.lamatricexiste.network.ActivityDiscovery
+ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:30:9-34:20
+	android:label
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:32:13-45
+	android:configChanges
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:33:13-72
+	android:name
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:31:13-46
+activity#info.lamatricexiste.network.ReceiverActivity
+ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:35:9-39:20
+	android:label
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:37:13-45
+	android:configChanges
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:38:13-72
+	android:name
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:36:13-45
+activity#info.lamatricexiste.network.MyContact
+ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:40:9-48:20
+	android:label
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:42:13-45
+	android:configChanges
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:43:13-72
+	android:name
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:41:13-38
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:44:13-47:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:46:27-74
+activity#info.lamatricexiste.network.ActivityPortscan
+ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:49:9-65:20
+	android:label
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:51:13-45
+	android:configChanges
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:52:13-60
+	android:name
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:50:13-45
+intent-filter#.SCAN_HOST+android.intent.category.DEFAULT
+ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:53:13-64:29
+action#.SCAN_HOST
+ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:54:17-53
+	android:name
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:54:25-50
+category#android.intent.category.DEFAULT
+ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:55:17-76
+	android:name
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:55:27-73
+activity#info.lamatricexiste.network.Utils.Prefs
+ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:67:9-75:20
+	android:label
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:69:13-45
+	android:configChanges
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:70:13-72
+	android:name
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:68:13-40
+intent-filter#android.intent.category.DEFAULT+android.intent.category.PREFERENCE
+ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:71:13-74:29
+category#android.intent.category.PREFERENCE
+ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:73:17-79
+	android:name
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:73:27-76
+activity#info.lamatricexiste.network.Utils.Help
+ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:77:9-79:48
+	android:label
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:79:13-45
+	android:name
+		ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:78:13-39
+supports-screens
+ADDED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml:83:5-25
+uses-sdk
+INJECTED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Workspace\android-network-discovery-master1\app\src\main\AndroidManifest.xml

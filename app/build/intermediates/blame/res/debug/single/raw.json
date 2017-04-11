@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\services.bin",
+        "source": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\raw\\services.bin"
+    },
+    {
+        "merged": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\saves.bin",
+        "source": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\raw\\saves.bin"
+    }
+]

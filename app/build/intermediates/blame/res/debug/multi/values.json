@@ -1,0 +1,2860 @@
+[
+    {
+        "outputFile": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 19,
+                    "endOffset": 195
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 4,
+                        "startOffset": 10785,
+                        "endLine": 156,
+                        "endColumn": 19,
+                        "endOffset": 10925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 200,
+                    "endLine": 9,
+                    "endColumn": 19,
+                    "endOffset": 309
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endLine": 10,
+                        "endColumn": 19,
+                        "endOffset": 269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 314,
+                    "endColumn": 38,
+                    "endOffset": 348
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 38,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 353,
+                    "endColumn": 41,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 41,
+                        "endOffset": 235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 41,
+                    "endOffset": 432
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 240,
+                        "endColumn": 41,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 437,
+                    "endColumn": 41,
+                    "endOffset": 474
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 41,
+                        "endOffset": 319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 479,
+                    "endColumn": 47,
+                    "endOffset": 522
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endColumn": 47,
+                        "endOffset": 257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 527,
+                    "endColumn": 54,
+                    "endOffset": 577
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 54,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 582,
+                    "endColumn": 41,
+                    "endOffset": 619
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endColumn": 41,
+                        "endOffset": 700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 624,
+                    "endColumn": 43,
+                    "endOffset": 663
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 529,
+                        "endColumn": 43,
+                        "endOffset": 568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 668,
+                    "endColumn": 49,
+                    "endOffset": 713
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 378,
+                        "endColumn": 49,
+                        "endOffset": 423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 718,
+                    "endColumn": 54,
+                    "endOffset": 768
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 428,
+                        "endColumn": 54,
+                        "endOffset": 478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 773,
+                    "endColumn": 45,
+                    "endOffset": 814
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 483,
+                        "endColumn": 45,
+                        "endOffset": 524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 819,
+                    "endColumn": 41,
+                    "endOffset": 856
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 705,
+                        "endColumn": 41,
+                        "endOffset": 742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 861,
+                    "endColumn": 37,
+                    "endOffset": 894
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 302,
+                        "endColumn": 37,
+                        "endOffset": 335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 899,
+                    "endColumn": 37,
+                    "endOffset": 932
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 340,
+                        "endColumn": 37,
+                        "endOffset": 373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 937,
+                    "endColumn": 47,
+                    "endOffset": 980
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 615,
+                        "endColumn": 47,
+                        "endOffset": 658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 985,
+                    "endColumn": 43,
+                    "endOffset": 1024
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 747,
+                        "endColumn": 43,
+                        "endOffset": 786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1029,
+                    "endColumn": 45,
+                    "endOffset": 1070
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 791,
+                        "endColumn": 45,
+                        "endOffset": 832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1075,
+                    "endColumn": 41,
+                    "endOffset": 1112
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 573,
+                        "endColumn": 41,
+                        "endOffset": 610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1117,
+                    "endColumn": 39,
+                    "endOffset": 1152
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 262,
+                        "endColumn": 39,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1157,
+                    "endColumn": 65,
+                    "endOffset": 1218
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 3073,
+                        "endColumn": 65,
+                        "endOffset": 3134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1223,
+                    "endColumn": 62,
+                    "endOffset": 1281
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2948,
+                        "endColumn": 62,
+                        "endOffset": 3006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1286,
+                    "endColumn": 61,
+                    "endOffset": 1343
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 3011,
+                        "endColumn": 61,
+                        "endOffset": 3068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1348,
+                    "endColumn": 59,
+                    "endOffset": 1403
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2888,
+                        "endColumn": 59,
+                        "endOffset": 2943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1408,
+                    "endColumn": 66,
+                    "endOffset": 1470
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2821,
+                        "endColumn": 66,
+                        "endOffset": 2883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1475,
+                    "endColumn": 66,
+                    "endOffset": 1537
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2181,
+                        "endColumn": 66,
+                        "endOffset": 2243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1542,
+                    "endColumn": 66,
+                    "endOffset": 1604
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2754,
+                        "endColumn": 66,
+                        "endOffset": 2816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1609,
+                    "endColumn": 66,
+                    "endOffset": 1671
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2114,
+                        "endColumn": 66,
+                        "endOffset": 2176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1676,
+                    "endColumn": 57,
+                    "endOffset": 1729
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 3139,
+                        "endColumn": 57,
+                        "endOffset": 3192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1734,
+                    "endColumn": 200,
+                    "endOffset": 1930
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2309,
+                        "endColumn": 200,
+                        "endOffset": 2505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1935,
+                    "endColumn": 60,
+                    "endOffset": 1991
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2248,
+                        "endColumn": 60,
+                        "endOffset": 2304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1996,
+                    "endColumn": 99,
+                    "endOffset": 2091
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2577,
+                        "endColumn": 99,
+                        "endOffset": 2672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2096,
+                    "endColumn": 76,
+                    "endOffset": 2168
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2677,
+                        "endColumn": 76,
+                        "endOffset": 2749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2173,
+                    "endColumn": 66,
+                    "endOffset": 2235
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2510,
+                        "endColumn": 66,
+                        "endOffset": 2572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2240,
+                    "endColumn": 64,
+                    "endOffset": 2300
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2049,
+                        "endColumn": 64,
+                        "endOffset": 2109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2305,
+                    "endColumn": 65,
+                    "endOffset": 2366
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 4324,
+                        "endColumn": 65,
+                        "endOffset": 4385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2371,
+                    "endColumn": 72,
+                    "endOffset": 2439
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 4503,
+                        "endColumn": 72,
+                        "endOffset": 4571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2444,
+                    "endColumn": 67,
+                    "endOffset": 2507
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 4435,
+                        "endColumn": 67,
+                        "endOffset": 4498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2512,
+                    "endColumn": 56,
+                    "endOffset": 2564
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 4267,
+                        "endColumn": 56,
+                        "endOffset": 4319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2569,
+                    "endColumn": 44,
+                    "endOffset": 2609
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 4390,
+                        "endColumn": 44,
+                        "endOffset": 4430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2614,
+                    "endColumn": 571,
+                    "endOffset": 3181
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 4646,
+                        "endColumn": 571,
+                        "endOffset": 5213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3186,
+                    "endColumn": 64,
+                    "endOffset": 3246
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 4581,
+                        "endColumn": 64,
+                        "endOffset": 4641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3251,
+                    "endColumn": 196,
+                    "endOffset": 3443
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 6096,
+                        "endColumn": 196,
+                        "endOffset": 6288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3448,
+                    "endColumn": 50,
+                    "endOffset": 3494
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 6045,
+                        "endColumn": 50,
+                        "endOffset": 6091
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3499,
+                    "endColumn": 768,
+                    "endOffset": 4263
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 5276,
+                        "endColumn": 768,
+                        "endOffset": 6040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4268,
+                    "endColumn": 57,
+                    "endOffset": 4321
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 5218,
+                        "endColumn": 57,
+                        "endOffset": 5271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4326,
+                    "endColumn": 49,
+                    "endOffset": 4371
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 3998,
+                        "endColumn": 49,
+                        "endOffset": 4043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4376,
+                    "endColumn": 48,
+                    "endOffset": 4420
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 4048,
+                        "endColumn": 48,
+                        "endOffset": 4092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4425,
+                    "endColumn": 59,
+                    "endOffset": 4480
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 4153,
+                        "endColumn": 59,
+                        "endOffset": 4208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4485,
+                    "endColumn": 55,
+                    "endOffset": 4536
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 4097,
+                        "endColumn": 55,
+                        "endOffset": 4148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4541,
+                    "endColumn": 52,
+                    "endOffset": 4589
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 3945,
+                        "endColumn": 52,
+                        "endOffset": 3993
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4594,
+                    "endColumn": 48,
+                    "endOffset": 4638
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 4213,
+                        "endColumn": 48,
+                        "endOffset": 4257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4643,
+                    "endColumn": 51,
+                    "endOffset": 4690
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1667,
+                        "endColumn": 51,
+                        "endOffset": 1714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4695,
+                    "endColumn": 55,
+                    "endOffset": 4746
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1611,
+                        "endColumn": 55,
+                        "endOffset": 1662
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4751,
+                    "endColumn": 45,
+                    "endOffset": 4792
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1765,
+                        "endColumn": 45,
+                        "endOffset": 1806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4797,
+                    "endColumn": 69,
+                    "endOffset": 4862
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1921,
+                        "endColumn": 69,
+                        "endOffset": 1986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4867,
+                    "endColumn": 50,
+                    "endOffset": 4913
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1870,
+                        "endColumn": 50,
+                        "endOffset": 1916
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4918,
+                    "endColumn": 52,
+                    "endOffset": 4966
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1991,
+                        "endColumn": 52,
+                        "endOffset": 2039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4971,
+                    "endColumn": 58,
+                    "endOffset": 5025
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1811,
+                        "endColumn": 58,
+                        "endOffset": 1865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 5030,
+                    "endColumn": 45,
+                    "endOffset": 5071
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1719,
+                        "endColumn": 45,
+                        "endOffset": 1760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 5076,
+                    "endColumn": 82,
+                    "endOffset": 5154
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1023,
+                        "endColumn": 82,
+                        "endOffset": 1101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 5159,
+                    "endColumn": 56,
+                    "endOffset": 5211
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 6576,
+                        "endColumn": 56,
+                        "endOffset": 6628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 5216,
+                    "endColumn": 125,
+                    "endOffset": 5337
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 8337,
+                        "endColumn": 125,
+                        "endOffset": 8458
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 5342,
+                    "endColumn": 81,
+                    "endOffset": 5419
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 8255,
+                        "endColumn": 81,
+                        "endOffset": 8332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 5424,
+                    "endColumn": 119,
+                    "endOffset": 5539
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 7797,
+                        "endColumn": 119,
+                        "endOffset": 7912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 5544,
+                    "endColumn": 69,
+                    "endOffset": 5609
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 7727,
+                        "endColumn": 69,
+                        "endOffset": 7792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 5614,
+                    "endColumn": 56,
+                    "endOffset": 5666
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 4,
+                        "startOffset": 10366,
+                        "endColumn": 56,
+                        "endOffset": 10418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 5671,
+                    "endColumn": 94,
+                    "endOffset": 5761
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 4,
+                        "startOffset": 10271,
+                        "endColumn": 94,
+                        "endOffset": 10361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 5766,
+                    "endColumn": 69,
+                    "endOffset": 5831
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 4,
+                        "startOffset": 10201,
+                        "endColumn": 69,
+                        "endOffset": 10266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 5836,
+                    "endColumn": 55,
+                    "endOffset": 5887
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 6402,
+                        "endColumn": 55,
+                        "endOffset": 6453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 5892,
+                    "endColumn": 58,
+                    "endOffset": 5946
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 6458,
+                        "endColumn": 58,
+                        "endOffset": 6512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 5951,
+                    "endColumn": 108,
+                    "endOffset": 6055
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 9565,
+                        "endColumn": 108,
+                        "endOffset": 9669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 6060,
+                    "endColumn": 77,
+                    "endOffset": 6133
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 9487,
+                        "endColumn": 77,
+                        "endOffset": 9560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 6138,
+                    "endColumn": 84,
+                    "endOffset": 6218
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 9674,
+                        "endColumn": 84,
+                        "endOffset": 9754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 6223,
+                    "endColumn": 99,
+                    "endOffset": 6318
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 6638,
+                        "endColumn": 99,
+                        "endOffset": 6733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 6323,
+                    "endColumn": 59,
+                    "endOffset": 6378
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 9275,
+                        "endColumn": 59,
+                        "endOffset": 9330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 6383,
+                    "endColumn": 81,
+                    "endOffset": 6460
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 148,
+                        "startColumn": 4,
+                        "startOffset": 10428,
+                        "endColumn": 81,
+                        "endOffset": 10505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 6465,
+                    "endColumn": 99,
+                    "endOffset": 6560
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 4,
+                        "startOffset": 10510,
+                        "endColumn": 99,
+                        "endOffset": 10605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 6565,
+                    "endColumn": 81,
+                    "endOffset": 6642
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 4,
+                        "startOffset": 10610,
+                        "endColumn": 81,
+                        "endOffset": 10687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 6647,
+                    "endColumn": 87,
+                    "endOffset": 6730
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 4,
+                        "startOffset": 10692,
+                        "endColumn": 87,
+                        "endOffset": 10775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 6735,
+                    "endColumn": 53,
+                    "endOffset": 6784
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 6348,
+                        "endColumn": 53,
+                        "endOffset": 6397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 6789,
+                    "endColumn": 49,
+                    "endOffset": 6834
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 6298,
+                        "endColumn": 49,
+                        "endOffset": 6343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 6839,
+                    "endColumn": 82,
+                    "endOffset": 6917
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 9404,
+                        "endColumn": 82,
+                        "endOffset": 9482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 6922,
+                    "endColumn": 68,
+                    "endOffset": 6986
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 4,
+                        "startOffset": 9335,
+                        "endColumn": 68,
+                        "endOffset": 9399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 6991,
+                    "endColumn": 84,
+                    "endOffset": 7071
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 4,
+                        "startOffset": 10116,
+                        "endColumn": 84,
+                        "endOffset": 10196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 7076,
+                    "endColumn": 71,
+                    "endOffset": 7143
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 4,
+                        "startOffset": 10044,
+                        "endColumn": 71,
+                        "endOffset": 10111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 7148,
+                    "endColumn": 78,
+                    "endOffset": 7222
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 9965,
+                        "endColumn": 78,
+                        "endOffset": 10039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 7227,
+                    "endColumn": 59,
+                    "endOffset": 7282
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 4,
+                        "startOffset": 9905,
+                        "endColumn": 59,
+                        "endOffset": 9960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 7287,
+                    "endColumn": 81,
+                    "endOffset": 7364
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 9823,
+                        "endColumn": 81,
+                        "endOffset": 9900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 7369,
+                    "endColumn": 63,
+                    "endOffset": 7428
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 9759,
+                        "endColumn": 63,
+                        "endOffset": 9818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 7433,
+                    "endColumn": 87,
+                    "endOffset": 7516
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 7639,
+                        "endColumn": 87,
+                        "endOffset": 7722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 7521,
+                    "endColumn": 64,
+                    "endOffset": 7581
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 7574,
+                        "endColumn": 64,
+                        "endOffset": 7634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 7586,
+                    "endColumn": 90,
+                    "endOffset": 7672
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 7483,
+                        "endColumn": 90,
+                        "endOffset": 7569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 7677,
+                    "endColumn": 67,
+                    "endOffset": 7740
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 7415,
+                        "endColumn": 67,
+                        "endOffset": 7478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 7745,
+                    "endColumn": 58,
+                    "endOffset": 7799
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 6517,
+                        "endColumn": 58,
+                        "endOffset": 6571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 7804,
+                    "endColumn": 98,
+                    "endOffset": 7898
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 7141,
+                        "endColumn": 98,
+                        "endOffset": 7235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 7903,
+                    "endColumn": 77,
+                    "endOffset": 7976
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 7063,
+                        "endColumn": 77,
+                        "endOffset": 7136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 7981,
+                    "endColumn": 94,
+                    "endOffset": 8071
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 8967,
+                        "endColumn": 94,
+                        "endOffset": 9057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 8076,
+                    "endColumn": 88,
+                    "endOffset": 8160
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 9062,
+                        "endColumn": 88,
+                        "endOffset": 9146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 8165,
+                    "endColumn": 94,
+                    "endOffset": 8255
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 8872,
+                        "endColumn": 94,
+                        "endOffset": 8962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 8260,
+                    "endColumn": 73,
+                    "endOffset": 8329
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 4,
+                        "startOffset": 8798,
+                        "endColumn": 73,
+                        "endOffset": 8867
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 8334,
+                    "endColumn": 99,
+                    "endOffset": 8429
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 6814,
+                        "endColumn": 99,
+                        "endOffset": 6909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 8434,
+                    "endColumn": 75,
+                    "endOffset": 8505
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 6738,
+                        "endColumn": 75,
+                        "endOffset": 6809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 8510,
+                    "endColumn": 88,
+                    "endOffset": 8594
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 8527,
+                        "endColumn": 88,
+                        "endOffset": 8611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 8599,
+                    "endColumn": 63,
+                    "endOffset": 8658
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 4,
+                        "startOffset": 8463,
+                        "endColumn": 63,
+                        "endOffset": 8522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 8663,
+                    "endColumn": 114,
+                    "endOffset": 8773
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 8683,
+                        "endColumn": 114,
+                        "endOffset": 8793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 8778,
+                    "endColumn": 66,
+                    "endOffset": 8840
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 8616,
+                        "endColumn": 66,
+                        "endOffset": 8678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 8845,
+                    "endColumn": 99,
+                    "endOffset": 8940
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 7315,
+                        "endColumn": 99,
+                        "endOffset": 7410
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 8945,
+                    "endColumn": 74,
+                    "endOffset": 9015
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 7240,
+                        "endColumn": 74,
+                        "endOffset": 7310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 9020,
+                    "endColumn": 90,
+                    "endOffset": 9106
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 7992,
+                        "endColumn": 90,
+                        "endOffset": 8078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 9111,
+                    "endColumn": 74,
+                    "endOffset": 9181
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 7917,
+                        "endColumn": 74,
+                        "endOffset": 7987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 9186,
+                    "endColumn": 101,
+                    "endOffset": 9283
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 8153,
+                        "endColumn": 101,
+                        "endOffset": 8250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 9288,
+                    "endColumn": 69,
+                    "endOffset": 9353
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 8083,
+                        "endColumn": 69,
+                        "endOffset": 8148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 9358,
+                    "endColumn": 61,
+                    "endOffset": 9415
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 9151,
+                        "endColumn": 61,
+                        "endOffset": 9208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 9420,
+                    "endColumn": 86,
+                    "endOffset": 9502
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 6976,
+                        "endColumn": 86,
+                        "endOffset": 7058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 9507,
+                    "endColumn": 61,
+                    "endOffset": 9564
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 6914,
+                        "endColumn": 61,
+                        "endOffset": 6971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 9569,
+                    "endColumn": 61,
+                    "endOffset": 9626
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 9213,
+                        "endColumn": 61,
+                        "endOffset": 9270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 9631,
+                    "endColumn": 57,
+                    "endOffset": 9684
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 3882,
+                        "endColumn": 57,
+                        "endOffset": 3935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 9689,
+                    "endColumn": 57,
+                    "endOffset": 9742
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 3655,
+                        "endColumn": 57,
+                        "endOffset": 3708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 9747,
+                    "endColumn": 51,
+                    "endOffset": 9794
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 3761,
+                        "endColumn": 51,
+                        "endOffset": 3808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 9799,
+                    "endColumn": 48,
+                    "endOffset": 9843
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 3492,
+                        "endColumn": 48,
+                        "endOffset": 3536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 9848,
+                    "endColumn": 57,
+                    "endOffset": 9901
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 3597,
+                        "endColumn": 57,
+                        "endOffset": 3650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 9906,
+                    "endColumn": 68,
+                    "endOffset": 9970
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 3813,
+                        "endColumn": 68,
+                        "endOffset": 3877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 9975,
+                    "endColumn": 64,
+                    "endOffset": 10035
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 3427,
+                        "endColumn": 64,
+                        "endOffset": 3487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 10040,
+                    "endColumn": 60,
+                    "endOffset": 10096
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 3366,
+                        "endColumn": 60,
+                        "endOffset": 3422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 10101,
+                    "endColumn": 47,
+                    "endOffset": 10144
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 3713,
+                        "endColumn": 47,
+                        "endOffset": 3756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 10149,
+                    "endColumn": 105,
+                    "endOffset": 10250
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3260,
+                        "endColumn": 105,
+                        "endOffset": 3361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 10255,
+                    "endColumn": 53,
+                    "endOffset": 10304
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 3206,
+                        "endColumn": 53,
+                        "endOffset": 3255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 10309,
+                    "endColumn": 55,
+                    "endOffset": 10360
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 3541,
+                        "endColumn": 55,
+                        "endOffset": 3592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 10365,
+                    "endColumn": 78,
+                    "endOffset": 10439
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 842,
+                        "endColumn": 78,
+                        "endOffset": 916
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 10444,
+                    "endColumn": 99,
+                    "endOffset": 10539
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 921,
+                        "endColumn": 99,
+                        "endOffset": 1016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 10544,
+                    "endColumn": 72,
+                    "endOffset": 10612
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1406,
+                        "endColumn": 72,
+                        "endOffset": 1474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 10617,
+                    "endColumn": 66,
+                    "endOffset": 10679
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1479,
+                        "endColumn": 66,
+                        "endOffset": 1541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 10684,
+                    "endColumn": 58,
+                    "endOffset": 10738
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1288,
+                        "endColumn": 58,
+                        "endOffset": 1342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 10743,
+                    "endColumn": 60,
+                    "endOffset": 10799
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1227,
+                        "endColumn": 60,
+                        "endOffset": 1283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 10804,
+                    "endColumn": 56,
+                    "endOffset": 10856
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1111,
+                        "endColumn": 56,
+                        "endOffset": 1163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 10861,
+                    "endColumn": 58,
+                    "endOffset": 10915
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1168,
+                        "endColumn": 58,
+                        "endOffset": 1222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 10920,
+                    "endColumn": 58,
+                    "endOffset": 10974
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1347,
+                        "endColumn": 58,
+                        "endOffset": 1401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 10979,
+                    "endColumn": 59,
+                    "endOffset": 11034
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1546,
+                        "endColumn": 59,
+                        "endOffset": 1601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 11039,
+                    "endLine": 156,
+                    "endColumn": 12,
+                    "endOffset": 11472
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 11477,
+                    "endLine": 159,
+                    "endColumn": 12,
+                    "endOffset": 11595
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 946,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 11600,
+                    "endLine": 164,
+                    "endColumn": 12,
+                    "endOffset": 11825
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1069,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 1294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 11830,
+                    "endLine": 171,
+                    "endColumn": 12,
+                    "endOffset": 12174
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 597,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 12179,
+                    "endLine": 174,
+                    "endColumn": 12,
+                    "endOffset": 12270
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1718,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 1809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 12275,
+                    "endLine": 178,
+                    "endColumn": 12,
+                    "endOffset": 12465
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2005,
+                        "endLine": 50,
+                        "endColumn": 12,
+                        "endOffset": 2195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 12470,
+                    "endLine": 182,
+                    "endColumn": 12,
+                    "endOffset": 12656
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1814,
+                        "endLine": 46,
+                        "endColumn": 12,
+                        "endOffset": 2000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 12661,
+                    "endLine": 186,
+                    "endColumn": 12,
+                    "endOffset": 12806
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1568,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 12811,
+                    "endLine": 192,
+                    "endColumn": 12,
+                    "endOffset": 13075
+                },
+                "from": {
+                    "file": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1299,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1563
+                    }
+                }
+            }
+        ]
+    }
+]

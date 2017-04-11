@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_contact.xml",
+        "source": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\layout\\activity_my_contact.xml"
+    },
+    {
+        "merged": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_receiver.xml",
+        "source": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\layout\\activity_receiver.xml"
+    },
+    {
+        "merged": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\discovery.xml",
+        "source": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\layout\\discovery.xml"
+    },
+    {
+        "merged": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scan_single.xml",
+        "source": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\layout\\scan_single.xml"
+    },
+    {
+        "merged": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_edittext.xml",
+        "source": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\layout\\dialog_edittext.xml"
+    },
+    {
+        "merged": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_port.xml",
+        "source": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\layout\\list_port.xml"
+    },
+    {
+        "merged": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_host.xml",
+        "source": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\layout\\list_host.xml"
+    },
+    {
+        "merged": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sender.xml",
+        "source": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\layout\\activity_sender.xml"
+    },
+    {
+        "merged": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
+        "source": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\donate.xml",
+        "source": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\layout\\donate.xml"
+    },
+    {
+        "merged": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\portscan.xml",
+        "source": "D:\\Android\\Workspace\\android-network-discovery-master1\\app\\src\\main\\res\\layout\\portscan.xml"
+    }
+]
